@@ -1,0 +1,15 @@
+C:\Users\Lidiya\Desktop\GeekBrains\Seminar6\task52_homework\bin\Debug\net6.0\task52_homework.exe
+C:\Users\Lidiya\Desktop\GeekBrains\Seminar6\task52_homework\bin\Debug\net6.0\task52_homework.deps.json
+C:\Users\Lidiya\Desktop\GeekBrains\Seminar6\task52_homework\bin\Debug\net6.0\task52_homework.runtimeconfig.json
+C:\Users\Lidiya\Desktop\GeekBrains\Seminar6\task52_homework\bin\Debug\net6.0\task52_homework.dll
+C:\Users\Lidiya\Desktop\GeekBrains\Seminar6\task52_homework\bin\Debug\net6.0\task52_homework.pdb
+C:\Users\Lidiya\Desktop\GeekBrains\Seminar6\task52_homework\obj\Debug\net6.0\task52_homework.csproj.AssemblyReference.cache
+C:\Users\Lidiya\Desktop\GeekBrains\Seminar6\task52_homework\obj\Debug\net6.0\task52_homework.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Lidiya\Desktop\GeekBrains\Seminar6\task52_homework\obj\Debug\net6.0\task52_homework.AssemblyInfoInputs.cache
+C:\Users\Lidiya\Desktop\GeekBrains\Seminar6\task52_homework\obj\Debug\net6.0\task52_homework.AssemblyInfo.cs
+C:\Users\Lidiya\Desktop\GeekBrains\Seminar6\task52_homework\obj\Debug\net6.0\task52_homework.csproj.CoreCompileInputs.cache
+C:\Users\Lidiya\Desktop\GeekBrains\Seminar6\task52_homework\obj\Debug\net6.0\task52_homework.dll
+C:\Users\Lidiya\Desktop\GeekBrains\Seminar6\task52_homework\obj\Debug\net6.0\refint\task52_homework.dll
+C:\Users\Lidiya\Desktop\GeekBrains\Seminar6\task52_homework\obj\Debug\net6.0\task52_homework.pdb
+C:\Users\Lidiya\Desktop\GeekBrains\Seminar6\task52_homework\obj\Debug\net6.0\task52_homework.genruntimeconfig.cache
+C:\Users\Lidiya\Desktop\GeekBrains\Seminar6\task52_homework\obj\Debug\net6.0\ref\task52_homework.dll
